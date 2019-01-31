@@ -1,0 +1,31 @@
+/*calsses-->.container-fluid(se repiten las veces que sean necesarias )
+ID-->id-->#principal(no se repiten)
+Etiquetas-> <> -> body, nav
+
+sintaxis
+          ^
+Selector{--|
+	atributo1 :"valor";
+	atributo2:#dddd;
+
+}*/
+
+body{
+	font-family: 'Raleway', sans-serif;
+}
+header{
+	background: url("../img/background_header.jpg") no-repeat;height: 750px;background-size: cover;
+}
+#logotipo{
+	margin-top: 40px;
+}
+header .nav-link{
+	font-size: 13px;color: #fff;padding-top: 40px;
+
+}
+header .nav{
+	justify-content: flex-end;
+}
+header .nav-link:hover{
+background: #fff;color: #31344e;
+}
