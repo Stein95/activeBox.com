@@ -22,10 +22,20 @@ header{
 header .nav-link{
 	font-size: 13px;color: #fff;padding-top: 40px;
 
-}
+} 
 header .nav{
 	justify-content: flex-end;
 }
 header .nav-link:hover{
 background: #fff;color: #31344e;
 }
+
+#text1{font-size:  65px;font-weight: bold;margin-top: 155px;color:#fff; text-align: center;}
+
+#text2 {font-size:  65px;font-weight: bold;color: #fff; text-align: center;}
+
+#text3 {font-size:  22px; color: #fff; text-align: center;}
+
+#text4 {font-size:  22px;color: #fff; text-align: center;}
+
+#boton{margin-top: 80px;}
